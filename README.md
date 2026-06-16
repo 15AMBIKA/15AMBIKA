@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ambika sharma 
-- 👀 I’m interested in programming languages 
-- 🌱 I’m currently learning c language 
+-  Hi, I’m Ambika sharma 
+-  I’m interested in programming languages 
+-  I’m currently learning java and python language 
 -
