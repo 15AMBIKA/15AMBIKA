@@ -1,4 +1,3 @@
 -  Hi, I’m Ambika sharma 
 -  I’m interested in programming languages 
--  I’m currently learning java and python language 
--
+-  I’m currently learning java and python languages
